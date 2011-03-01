@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="junit.jar"/>
+	<classpathentry kind="lib" path="poi-2.0-RC1-20031102.jar"/>
+	<classpathentry kind="lib" path="httpunit.jar"/>
+	<classpathentry kind="lib" path="js.jar"/>
+	<classpathentry kind="lib" path="nekohtml.jar"/>
+	<classpathentry kind="lib" path="servlet.jar"/>
+	<classpathentry kind="lib" path="Tidy.jar"/>
+	<classpathentry kind="lib" path="xercesImpl.jar"/>
+	<classpathentry kind="lib" path="xmlParserAPIs.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

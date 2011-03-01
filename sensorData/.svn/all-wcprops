@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/tfg/!svn/ver/1/TestFirstGauge/sensorData
+END
+DataController.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/DataController.class
+END
+VSLogReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/VSLogReader.class
+END
+UnitTestReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/UnitTestReader.java
+END
+MSTestReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/MSTestReader.java
+END
+UnitTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/UnitTest.class
+END
+FileMetricReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/FileMetricReader.java
+END
+FileMetric.class
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/FileMetric.class
+END
+ActivityDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/ActivityDataReader.java
+END
+DataController.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/DataController.java
+END
+VSLogReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/VSLogReader.java
+END
+UnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/UnitTest.java
+END
+Activity.class
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/Activity.class
+END
+FileMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/FileMetric.java
+END
+UnitTestReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/UnitTestReader.class
+END
+MSTestReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/MSTestReader.class
+END
+FileMetricReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/FileMetricReader.class
+END
+Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/Activity.java
+END
+ActivityDataReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tfg/!svn/ver/1/TestFirstGauge/sensorData/ActivityDataReader.class
+END

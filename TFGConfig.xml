@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root_Element>
+	<Property name="ProjectName" value="BSK" description="Project Name"/>
+	<Property name="TFGDirectory" value="/Users/davi/Projects/tfg/TDDData/" description="Directory under which (if not exist) data being saved and the TFG report is generated"/>
+	<Property name="ReportFileName" value="TFGReport.xls" description="Output report name"/>
+	<Property name="TestDataIn" value="/Users/davi/Projects/tfg/TDDData/BSK/TestResults/" description="Directory for MSTest logs"/>
+	<Property name="VSLogDataIn" value="/Users/davi/Projects/tfg/TDDData/BSK/VSLogger.xml" description="VSLogger Output File"/>
+	<Property name="ReportTemplateFile" value="TFGTemplate.xls" description="none"/>
+	<Property name="IdleTimeThreshold" value="15000" description="none"/>
+	<Property name="RemoveNoisyLogs" value="No" description="A simple heuristic: do not include name strings that are substrings of existing ones"/>
+</Root_Element>

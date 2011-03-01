@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root_Element>
+	<Property name="AfterClosingSolution" value="ActiveDocument" description="None"/>
+	<Property name="AfterCommandExecuted" value="ActiveDocument" description="None"/>
+	<Property name="BeforeClosingSolution" value="ActiveDocument" description="None"/>
+	<Property name="BeforeCommandExecuted" value="ActiveDocument" description="None"/>
+	<Property name="BuildBegin" value="ActiveDocument" description="None"/>
+	<Property name="BuildConfigurationBegin" value="ActiveDocument" description="None"/>
+	<Property name="BuildConfigurationEnd" value="ActiveDocument" description="None"/>
+	<Property name="BuildEnd" value="ActiveDocument" description="None"/>
+	<Property name="DocumentClosed" value="DocumentName" description="None"/>
+	<Property name="DocumentOpened" value="ActiveDocument" description="None"/>
+	<Property name="DocumentOpening" value="ActiveDocument" description="None"/>
+	<Property name="DocumentPosition" value="ActiveDocument" description="None"/>
+	<Property name="DocumentSaved" value="ActiveDocument" description="None"/>
+	<Property name="ElementContent" value="ActiveDocument" description="*None"/>
+	<Property name="EnterDesignMode" value="ActiveDocument" description="None"/>
+	<Property name="EnterRunMode" value="ActiveDocument" description="None"/>
+	<Property name="LineCollapseEvent" value="ActiveDocument" description="None"/>
+	<Property name="LineEdit" value="*ActiveDocument" description="*None"/>
+	<Property name="ModeChanged" value="ActiveDocument" description="None"/>
+	<Property name="OutputPaneAdded" value="ActiveDocument" description="None"/>
+	<Property name="OutputPaneCleared" value="ActiveDocument" description="None"/>
+	<Property name="ProjectAdded" value="ActiveDocument" description="None"/>
+	<Property name="ProjectRenamed" value="ActiveDocument" description="None"/>
+	<Property name="QueryCloseSolution" value="ActiveDocument" description="None"/>
+	<Property name="ScrollEvent" value="ActiveDocument" description="None"/>
+	<Property name="SelectionChanged" value="ActiveDocument" description="None"/>
+	<Property name="SolutionOpened" value="ActiveDocument" description="None"/>
+	<Property name="StartupComplete" value="ActiveDocument" description="None"/>
+	<Property name="TaskAdded" value="ActiveDocument" description="None"/>
+	<Property name="TaskNavigated" value="ActiveDocument" description="None"/>
+	<Property name="TextCopy" value="ActiveDocument" description="None"/>
+	<Property name="TextDelete" value="*ActiveDocument" description="None"/>
+	<Property name="TextPaste" value="*ActiveDocument" description="None"/>
+	<Property name="WindowActivated" value="Caption" description="None"/>
+	<Property name="WindowClosing" value="Caption" description="None"/>
+	<Property name="WindowCreated" value="Caption" description="None"/>
+	<Property name="WindowMoved" value="ActiveDocument" description="None"/>
+</Root_Element>
